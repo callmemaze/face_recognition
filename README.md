@@ -4,6 +4,7 @@ face recognition system using face_recognition.
 face_recognition is a python library created by Adam Geitgey. The system encode the face of the image and store in a known face list. The system can identify three faces Bill gates, Elon Musk and Steve Jobs. 
 
 - face_recognition
+
 Recognize and manipulate faces from Python or from the command line with
 the world’s simplest face recognition library.
 Built using dlib’s state-of-the-art face recognition
